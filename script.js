@@ -1704,5 +1704,13 @@ const medTranslations = {
             vietnamese: "Dùng khi cần cho buồn nôn/nôn",
             russian: "По мере необходимости при тошноте/рвоте"
         }
+         "Weight_over_3_lb ": {
+            english: "As needed for weight gain over 3 pounds",
+            spanish: "Según necesidad para náuseas/vómitos",
+            "cantonese (traditional)": "如噁心/嘔吐才服",
+            "mandarin (simplified)": "按需要用于恶心/呕吐",
+            "filipino (tagalog)": "Kung kinakailangan para sa pagduduwal/pagsusuka",
+            vietnamese: "Dùng khi cần cho buồn nôn/nôn",
+            russian: "По мере необходимости при тошноте/рвоте"
     }
 };
